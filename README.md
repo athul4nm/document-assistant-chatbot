@@ -19,7 +19,12 @@ An NLP-based chatbot that generates professional documents such as emails, resum
 
 ## How to Run
 pip install -r requirements.txt  
-python app_mistral.py  
+python app.py  
+
+## Results
+- Generates emails, resumes, and letters successfully  
+- Provides grammatically correct structured output  
+- Runs efficiently on local machine  
 
 ## Output
 ![Output1](output1.png)
