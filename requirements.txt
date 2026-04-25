@@ -1,0 +1,19 @@
+# PyTorch with CUDA 12.6 support for Windows
+--extra-index-url https://download.pytorch.org/whl/cu126
+
+# Core Machine Learning & Model Loading
+torch
+torchvision
+torchaudio
+transformers==4.38.0
+peft==0.7.1
+accelerate==0.26.0
+bitsandbytes
+datasets
+scipy
+huggingface_hub
+
+# Web App & Document Export
+streamlit
+python-docx
+reportlab
